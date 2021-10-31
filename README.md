@@ -1,16 +1,26 @@
-<!--
-**johe123qwe/johe123qwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hello, I'm carter. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+
+<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Learning Javascript and Chrome Extension development. -->
+
+<!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Started as an jailbreak iOS developer but time changed me to a web developer. I'm interested HTML, Javascript, Applescript and Linux Shell. -->
+
+---
+## 📊 Visitor count
+<p align="center">
+  <img src="https://profile-counter.glitch.me/johe123qwe/count.svg" />
+</p>
+
+---
+## &#x270d; Blog & Writing
+Apart from coding, I also maintain a blog - you can find my articles on my website at [dev-coco.github.io](https://dev-coco.github.io/)
+
+---
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/johe123qwe/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=johe123qwe&line_height=27&layout=compact&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/johe123qwe/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=johe123qwe&show_icons=true&line_height=20&include_all_commits=true&theme=chartreuse-dark" />
+</a>
