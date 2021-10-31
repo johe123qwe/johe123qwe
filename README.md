@@ -13,10 +13,6 @@
 </p>
 
 ---
-## &#x270d; Blog & Writing
-Apart from coding, I also maintain a blog - you can find my articles on my website at [dev-coco.github.io](https://dev-coco.github.io/)
-
----
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/johe123qwe/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=johe123qwe&line_height=27&layout=compact&theme=chartreuse-dark" />
