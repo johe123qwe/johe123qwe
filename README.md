@@ -2,9 +2,9 @@
 
 
 
-<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Learning Javascript and Chrome Extension development. -->
+<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Learning Python and Go development. -->
 
-<!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Started as an jailbreak iOS developer but time changed me to a web developer. I'm interested HTML, Javascript, Applescript and Linux Shell. -->
+<!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">I started as a Linux enthusiast. Over time, I learned Python and I was also interested in Go. -->
 
 ---
 ## 📊 Visitor count
