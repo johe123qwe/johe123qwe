@@ -1,10 +1,9 @@
 <h2> Hello, I'm carter. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Learning Python and Go development.
 
-<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Learning Python and Go development. -->
-
-<!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">I started as a Linux enthusiast. Over time, I learned Python and I was also interested in Go. -->
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">I started as a Linux enthusiast. Over time, I learned Python and I was also interested in Go.
 
 ---
 ## 📊 Visitor count
